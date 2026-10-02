@@ -1,2 +1,9 @@
 /index.php / 301
-/en-GB/* /united-kingdom-gb/:splat 301
+/casino-energy-gb/* /energy-casino-online-casino-gb/:splat 301
+/energy-casino-uk-gb/* /energy-casino-online-casino-gb/:splat 301
+/energy-casino-sports-betting-gb/* /energy-casino-online-casino-gb/:splat 301
+/energy-casino-reviews-gb/* /energy-casino-online-casino-gb/:splat 301
+/energy-casino-review-gb/* /energy-casino-online-casino-gb/:splat 301
+/energy-casino-gb/* /energy-casino-online-casino-gb/:splat 301
+/united-kingdom-gb/* /energy-casino-online-casino-gb/:splat 301
+/en-GB/* /energy-casino-online-casino-gb/:splat 301
